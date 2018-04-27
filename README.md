@@ -16,7 +16,7 @@ Ferramentas devidamente instaladas e configuradas no ambiente de implantação.
   * Apache Maven 3.5 + 
 
 # Código fonte
-Disponível clonagem à partir de: https://github.com/georgeoikawa/bankslips-api.git
+Disponível clonagem à partir de: https://github.com/georgeoikawa/bankslip-api.git
 
 # Instalação da API Rest
 Clonar o código fonte: git clone https://github.com/georgeoikawa/bankslip-api.git 
