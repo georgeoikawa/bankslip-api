@@ -16,9 +16,9 @@ Ferramentas devidamente instaladas e configuradas no ambiente de implantação.
   * Apache Maven 3.5 + 
 
 # Instalação da API Rest
-Clonar o código fonte: git clone https://github.com/georgeoikawa/bankslip-api.git 
-Executar o comando mvn clean install a partir do diretório clonado
-Executar java -jar bankslip-api-0.0.1-SNAPSHOT.jar (o jar se encontra dentro da pasta target)
+* Clonar o código fonte: git clone https://github.com/georgeoikawa/bankslip-api.git 
+* Executar o comando mvn clean install a partir do diretório raiz clonado
+* Executar java -jar bankslip-api-0.0.1-SNAPSHOT.jar (o jar se encontra dentro da pasta target)
 
 # Utilização
 Para invocação dos serviços alguns critérios de obrigatoriedade devem ser seguidos conforme abaixo.
