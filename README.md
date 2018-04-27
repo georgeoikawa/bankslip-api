@@ -17,7 +17,7 @@ Ferramentas devidamente instaladas e configuradas no ambiente de implantação.
 
 # Instalação da API Rest
 Clonar o código fonte: git clone https://github.com/georgeoikawa/bankslip-api.git 
-Executar o comando mvn clean install
+Executar o comando mvn clean install a partir do diretório clonado
 Executar java -jar bankslip-api-0.0.1-SNAPSHOT.jar (o jar se encontra dentro da pasta target)
 
 # Utilização
