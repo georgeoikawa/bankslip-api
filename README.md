@@ -1,8 +1,8 @@
 # bankslip-api
 bankslip-api é uma api rest com funções destinadas a gerenciamento de boletos que será consumida por um módulo de sistema de gestão financeira de microempresas
 
-# Descritivo da API
-A API dispõe dos seguintes serviços que serão melhor específicados posteriormente.
+# Funcionalidades da API
+A API dispõe de serviços com as seguintes operações.
   * Criação de boletos
   * Listagem de boletos
   * Visualização de boletos
@@ -14,9 +14,6 @@ Ferramentas devidamente instaladas e configuradas no ambiente de implantação.
   * JDK8 +
   * Git
   * Apache Maven 3.5 + 
-
-# Código fonte
-Disponível clonagem à partir de: https://github.com/georgeoikawa/bankslip-api.git
 
 # Instalação da API Rest
 Clonar o código fonte: git clone https://github.com/georgeoikawa/bankslip-api.git 
